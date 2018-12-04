@@ -1,0 +1,3 @@
+author = SkeleDude
+version = 0.1
+displayName = Levity
